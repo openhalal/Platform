@@ -9,17 +9,20 @@ While your buying even if you want buy directly,they prompt you for continuously
 While reading news, they will prompt you for different celebrities.
 While chating with friends, they will prompt you to talk to some strangers.  
 
-it feels like the Internet is shrinking in what we do everyday.
+it feels like the Internet is shrinking in what we can do everyday and everthing is haram.
 
 # What is Halal?   
-Halal is an Arabic word that translates to "permissible" in English. Everything is Halal, except which is specifically mentioned as Haraam [non-permisibble]. and yes it not only cover food items, but all the thing world has to offer, from the tinest to largest possible machines humans has ever thought of, from everyday items such as napkin or nail-cutter to car & aeroplane.
+Halal is an Arabic word that translates to "permissible" in English. Everything is Halal, except which is specifically mentioned as Haraam [non-permisibble]. and yes it not only cover food items, but all the thing world has to offer, from the tinest to largest possible machines humans has ever thought of, from everyday items such as napkins or nail-cutters to cars & aeroplanes and yes internet by itself is Halal.
 
-
-Hence, # openHalal a platform which will InshaAllah try to be totally halal, and follow the sunnah of Messenger of Allah, peace and blessings be upon him.
+Hence, openHalal a platform which will InshaAllah try to be totally halal, and follow the sunnah of Messenger of Allah, peace and blessings be upon him.
 
 # openHalal 
+is a platform which will deal with everything halal.
 
-is a business platform which will deal with everything halal.
+is a online world which will mimic the real world.
 
-is not a Charity, but will do charity.
+is a business platform, not a charity, but will do charity.
 
+is an open source project.
+
+No one can be its owner or buy its share. No one  can sell the whole project (company) to anyone.
